@@ -2,14 +2,16 @@
 Mostly Interested in R Tutorials for Advanced Users
 
 ## Data Manipulation
-
 * [**Tutorial: Basic data processing with R** *[revolutionanalytics.com]*](http://blog.revolutionanalytics.com/2013/12/tutorial-basic-data-processing-with-r.html) *(Added: 2013-12-02)*
 
+## Open Science and Reproducibility
+* [**Writing Papers Using Using R Markdown** *[Deciphering Life: One Bit at a Time]*](http://rmflight.github.io/posts/2012/10/papersinRmd.html) (via [*[R-Bloggers]*](www.r-bloggers.com/writing-papers-using-r-markdown/)) *(Added: 2013-12-19; Post date: 2013-12-09)*
 
 ## Text Mining
 * [__Google+ thread on Text Mining resources in R__](https://plus.google.com/+SharonMachlis/posts/1Sg913cKCxS) *(Added: 2013-12-18)*
 
 ## Graphics
+* [**Hive Plots using R and Cytoscape** *[Deciphering Life: One Bit at a Time]*](http://rmflight.github.io/posts/2012/11/hiveplots_example.html) *(Added: 2013-12-19; Post date: 2013-11-28)*
 * [**Plot.ly R API**](https://plot.ly/api/r/) *(Added: 2013-12-18)*
 
 ## Probability
