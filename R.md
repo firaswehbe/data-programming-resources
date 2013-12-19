@@ -3,8 +3,17 @@ Mostly Interested in R Tutorials for Advanced Users
 
 ## Data Manipulation
 
-### Tutorial: Basic data processing with R
-[blog.revolutionanalytics.com/2013/12/tutorial-basic...](http://blog.revolutionanalytics.com/2013/12/tutorial-basic-data-processing-with-r.html) _(Added: 2013-12-02)_
+* [**Tutorial: Basic data processing with R** *[revolutionanalytics.com]*](http://blog.revolutionanalytics.com/2013/12/tutorial-basic-data-processing-with-r.html) *(Added: 2013-12-02)*
 
+
+## Text Mining
+* [__Google+ thread on Text Mining resources in R__](https://plus.google.com/+SharonMachlis/posts/1Sg913cKCxS) *(Added: 2013-12-18)*
 
 ## Graphics
+* [**Plot.ly R API**](https://plot.ly/api/r/) *(Added: 2013-12-18)*
+
+## Probability
+* [**Problem of the day - You toss 100 coins, what's the probability that at least 60 are H?** *[math.stackexchange.com]*](http://math.stackexchange.com/questions/603709/probability-of-100-coin-tosses) *(Added: 2013-12-18; Post date: 2013-12-12)*
+
+## Misc
+* [**Processing EXIF Data** *[exegetic.biz]*](http://www.exegetic.biz/blog/2013/12/processing-exif-data/): EXIF data are stored in images. This is a way to extract data about your image library for example. *(Added: 2012-12-18; Post date: 2013-12-16)*
