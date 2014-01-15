@@ -8,7 +8,7 @@ Mostly Interested in R Tutorials for Advanced Users
 * [**Writing Papers Using Using R Markdown** *[Deciphering Life: One Bit at a Time]*](http://rmflight.github.io/posts/2012/10/papersinRmd.html) (via [*[R-Bloggers]*](www.r-bloggers.com/writing-papers-using-r-markdown/)) *(Added: 2013-12-19; Post date: 2013-12-09)*
 
 ## Text Mining
-* [__Google+ thread on Text Mining resources in R__](https://plus.google.com/+SharonMachlis/posts/1Sg913cKCxS) *(Added: 2013-12-18)*
+* [**Google+ thread on Text Mining resources in R**](https://plus.google.com/+SharonMachlis/posts/1Sg913cKCxS) *(Added: 2013-12-18)*
 
 ## Graphics
 * [**Hive Plots using R and Cytoscape** *[Deciphering Life: One Bit at a Time]*](http://rmflight.github.io/posts/2012/11/hiveplots_example.html) *(Added: 2013-12-19; Post date: 2013-11-28)*
