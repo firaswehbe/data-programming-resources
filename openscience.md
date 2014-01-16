@@ -1,6 +1,6 @@
 # Sources of Data
 
-*Last updated: 2014-01-15 09:30*
+*Last updated: 2014-01-16 14:44*
 
 * [**Registry of Research Data Repositories - re3data.org**](http://www.re3data.org/)
 
@@ -17,6 +17,10 @@ Datasets**](http://biostat.mc.vanderbilt.edu/wiki/Main/DataSets)
 * [**DRYAD data repository**](http://datadryad.org/)
 
 * [**UCSF CTSI Large Dataset Inventory**](http://accelerate.ucsf.edu/research/celdac)
+
+* [**Healthcare Cost and Utilization Project
+(HCUP)**](http://www.hcup-us.ahrq.gov/) -- (I think you need to sign a data
+use agreement to obtain the data)
 
 * [**Data Repositories wiki
 page**](http://oad.simmons.edu/oadwiki/Data_repositories) - Open Access
