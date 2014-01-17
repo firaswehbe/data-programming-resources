@@ -1,6 +1,6 @@
 # Sources of Data
 
-*Last updated: 2014-01-16 14:44*
+*Last updated: 2014-01-17 13:57*
 
 * [**Registry of Research Data Repositories - re3data.org**](http://www.re3data.org/)
 
@@ -46,6 +46,8 @@ Immunology**](https://immport.niaid.nih.gov/). Hosted by NIAID/NIH.
 
 * [**OHSU Public Data Sets
 page**](http://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/clinical-departments/public-health/education-programs/student-resources/public-datasets.cfm)
+
+* [**CDC Ambulatory Health Care Data**](http://www.cdc.gov/nchs/ahcd.htm). [FTP Site](ftp://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/NHAMCS/)
 
 # Articles about Open Source Software in Science
 
