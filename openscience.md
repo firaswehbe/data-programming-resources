@@ -14,6 +14,8 @@ Datasets**](http://biostat.mc.vanderbilt.edu/wiki/Main/DataSets)
 
 * [**UCI Machine Learning Repository**](http://archive.ics.uci.edu/ml/)
 
+* [**Academic Torrents**](http://academictorrents.com/) &gt;1.66TB of data
+
 * [**DRYAD data repository**](http://datadryad.org/)
 
 * [**UCSF CTSI Large Dataset Inventory**](http://accelerate.ucsf.edu/research/celdac)
