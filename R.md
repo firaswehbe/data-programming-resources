@@ -10,6 +10,7 @@ Mostly Interested in R Tutorials for Advanced Users
 * [**Writing Papers Using Using R Markdown** *[Deciphering Life: One Bit at a Time]*](http://rmflight.github.io/posts/2012/10/papersinRmd.html) (via [*[R-Bloggers]*](www.r-bloggers.com/writing-papers-using-r-markdown/)) *(Added: 2013-12-19; Post date: 2013-12-09)*
 
 ## Text Mining
+* [**Using R with Twitter** *[DecisionStats.com]*](http://decisionstats.com/2014/02/26/using-r-with-twitter-great-tutorial-in-rstats/): in slideshare *(Added: 2014-04-09; Post date: 2014-02-26)*
 * [**Useful functions in R for pattern matching and text manipulation in R** *[The Chemical Statistician]*](http://chemicalstatistician.wordpress.com/2014/02/27/useful-functions-in-r-for-manipulating-text-data/) *(Added: 2014-04-09; Post date: 2014-02-27)*
 * [**Google+ thread on Text Mining resources in R**](https://plus.google.com/+SharonMachlis/posts/1Sg913cKCxS) *(Added: 2013-12-18)*
 
