@@ -16,8 +16,12 @@ Mostly Interested in R Tutorials for Advanced Users
 * [**Hive Plots using R and Cytoscape** *[Deciphering Life: One Bit at a Time]*](http://rmflight.github.io/posts/2012/11/hiveplots_example.html) *(Added: 2013-12-19; Post date: 2013-11-28)*
 * [**Plot.ly R API**](https://plot.ly/api/r/) *(Added: 2013-12-18)*
 
-## Probability
+## Probability and Statistics
+* [**Getting Started with Hidden Markov Models in R** *[Revolution Analytics]*](http://blog.revolutionanalytics.com/2014/03/r-and-hidden-markov-models.html) *(Added: 2014-04-08; Post date: 2014-03-06)*
 * [**Problem of the day - You toss 100 coins, what's the probability that at least 60 are H?** *[math.stackexchange.com]*](http://math.stackexchange.com/questions/603709/probability-of-100-coin-tosses) *(Added: 2013-12-18; Post date: 2013-12-12)*
+
+## R Language Constructs and OOP
+* [**R and OOP - Defining New Classes** *[Milano R net]*](http://www.milanor.net/blog/?p=1234) *(Added: 2014-04-09; Post data: 2014-03-12)*
 
 ## Misc
 * [**One Page R: A Survival Guide to Data Science with R** *togaware*](http://onepager.togaware.com/) *(Added: 2014-04-09)*
