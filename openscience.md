@@ -35,7 +35,9 @@ resources and data from publications:
  page](http://researchguides.library.vanderbilt.edu/healthcaredata).
 
 * [**rOpenSci Packages**](http://ropensci.org/packages/index.html#data): has R
-packages for interacting with different data sources.
+packages for interacting with different data sources. 
+
+* ... see also [**rOpenGov**](https://github.com/ropengov) and [**rOpenHealth**](https://github.com/ropenhealth)
 
 * [**RDataMining.com**](http://www.rdatamining.com/resources/data) R and Data
 Mining Free Datasets
