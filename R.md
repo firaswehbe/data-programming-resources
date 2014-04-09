@@ -12,7 +12,8 @@ Mostly Interested in R Tutorials for Advanced Users
 ## Text Mining
 * [**Google+ thread on Text Mining resources in R**](https://plus.google.com/+SharonMachlis/posts/1Sg913cKCxS) *(Added: 2013-12-18)*
 
-## Graphics
+## Graphics and Vizualization
+* [**Beautiful Table Outputs in R - part 2** *[Strenge Jacke!]*](http://strengejacke.wordpress.com/2014/03/04/beautiful-table-outputs-in-r-part-2-rstats-sjplot/) *(Added: 2014-04-09; Post date: 2014-03-04)*
 * [**Hive Plots using R and Cytoscape** *[Deciphering Life: One Bit at a Time]*](http://rmflight.github.io/posts/2012/11/hiveplots_example.html) *(Added: 2013-12-19; Post date: 2013-11-28)*
 * [**Plot.ly R API**](https://plot.ly/api/r/) *(Added: 2013-12-18)*
 
