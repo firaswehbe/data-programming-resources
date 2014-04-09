@@ -53,6 +53,10 @@ page**](http://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/
 
 * [**MLData.Org**](http://mldata.org/)
 
+# Publishing Data
+
+* [**Mozilla + Figshare + GitHub**](http://thenextweb.com/dd/2014/03/17/mozilla-science-lab-github-figshare-team-fix-citation-code-academia/) Mozilla Science Lab, GitHub and Figshare team up to fix the citation of code in academia
+
 # Articles about Open Source Software in Science
 
 * Joppa LN, McInerny G, Harper R, Salido L, Takeda K, O'Hara K, Gavaghan D,
