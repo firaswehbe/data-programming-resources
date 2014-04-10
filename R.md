@@ -15,6 +15,7 @@ Mostly Interested in R Tutorials for Advanced Users
 * [**Google+ thread on Text Mining resources in R**](https://plus.google.com/+SharonMachlis/posts/1Sg913cKCxS) *(Added: 2013-12-18)*
 
 ## Graphics and Vizualization
+* [**Points, Polygons and Power Outages** *[rud.is]*](http://rud.is/b/2013/12/27/points-polygons-and-power-outages/) *(Added: 2014-04-09; Post date: 2013-12-27)*
 * [**3D Plots in R** *[RevolutionsAnalytics.com]*](http://blog.revolutionanalytics.com/2014/02/3d-plots-in-r.html) *(Added: 2014-04-09; Post date: 2014-02-13)*
 * [**Beautiful Table Outputs in R - part 2** *[Strenge Jacke!]*](http://strengejacke.wordpress.com/2014/03/04/beautiful-table-outputs-in-r-part-2-rstats-sjplot/) *(Added: 2014-04-09; Post date: 2014-03-04)*
 * [**Hive Plots using R and Cytoscape** *[Deciphering Life: One Bit at a Time]*](http://rmflight.github.io/posts/2012/11/hiveplots_example.html) *(Added: 2013-12-19; Post date: 2013-11-28)*
