@@ -2,6 +2,8 @@
 
 *Last updated: 2014-01-30 20:31*
 
+* [**Open Science Data Cloud**](https://www.opensciencedatacloud.org/publicdata/)
+
 * [**Registry of Research Data Repositories - re3data.org**](http://www.re3data.org/)
 
 * [**HSRIC**](http://www.nlm.nih.gov/hsrinfo/datasites.html): Health Services
