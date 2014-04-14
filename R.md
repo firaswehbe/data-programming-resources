@@ -15,6 +15,7 @@ Mostly Interested in R Tutorials for Advanced Users
 * [**Google+ thread on Text Mining resources in R**](https://plus.google.com/+SharonMachlis/posts/1Sg913cKCxS) *(Added: 2013-12-18)*
 
 ## Graphics and Vizualization
+* [**Shapefile Selfies in ggplot2** *[TRinker's R Blog]*](http://trinkerrstuff.wordpress.com/2014/04/12/shape-file-selfies-in-ggplot2/) *(Added: 2014-04-13; Post date: 2014-04-12)*
 * [**Geocoding, R, and the Rolling Stones** *[Rolling Your Rs]*](http://rollingyours.wordpress.com/2013/03/20/geocoding-r-and-the-rolling-stones-part-1/) *(Added: 2014-04-13; Post date: 2013-03-20)*
 * [**Animated Choropleths in R** *[Revolution Analytics]*](http://blog.revolutionanalytics.com/2014/04/animated-choropleths-in-r.html) *(Added: 2014-04-10; Post date: 2014-04-09)*
 * [**Points, Polygons and Power Outages** *[rud.is]*](http://rud.is/b/2013/12/27/points-polygons-and-power-outages/) *(Added: 2014-04-09; Post date: 2013-12-27)*
