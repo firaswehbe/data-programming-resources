@@ -61,6 +61,8 @@ page**](http://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/
 
 * [**Mozilla + Figshare + GitHub**](http://thenextweb.com/dd/2014/03/17/mozilla-science-lab-github-figshare-team-fix-citation-code-academia/) Mozilla Science Lab, GitHub and Figshare team up to fix the citation of code in academia
 
+* [**Upload your Code and Thesis to Figshare**](https://www.digital-science.com/blog/posts/upload-your-code-and-thesis-to-figshare)
+
 # Machine Learning Frameworks
 
 * [**OpenML: Open Machine Learning** *[GitHub.com/openml]*](https://github.com/openml/OpenML) *(Added: 2014-04-13)*
