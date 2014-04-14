@@ -7,3 +7,7 @@
 ## Data Analysis
 
 * [**Open Source Python Projects for Data Analysis** *[NumFOCUS.org]*](http://numfocus.org/projects.html) *(Added: 2014-04-13)*
+
+## Text Analysis
+
+* [**Mastering Python Regular Expressions (Book)** *[PACKT Publishign]*](http://www.packtpub.com/mastering-python-regular-expressions/book) *(Added: 2014-04-14)*
