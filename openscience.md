@@ -69,6 +69,8 @@ page**](http://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/
 
 # Articles about Open Source Software in Science
 
+* Blog post: [**How the Rise of the "R" Computer Language is Bringing Open Source to Science**](http://www.fastcolabs.com/3028381/how-the-rise-of-the-r-computer-language-is-bringing-open-source-to-science)
+
 * Joppa LN, McInerny G, Harper R, Salido L, Takeda K, O'Hara K, Gavaghan D,
 Emmott S. **Computational science. Troubling trends in scientific software
 use.** *Science*. 2013 May 17;340(6134):814-5. doi: 10.1126/science.1231535.
