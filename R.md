@@ -36,3 +36,4 @@ Mostly Interested in R Tutorials for Advanced Users
 * [**One Page R: A Survival Guide to Data Science with R** *togaware*](http://onepager.togaware.com/) *(Added: 2014-04-09)*
 * [**Secrets of Teaching R** *[Revolutionanalytics.com]*](http://blog.revolutionanalytics.com/2014/03/secrets-of-teaching-r.html) *(Added: 2014-04-09; Post date: 2014-03-18)*
 * [**Processing EXIF Data** *[exegetic.biz]*](http://www.exegetic.biz/blog/2013/12/processing-exif-data/): EXIF data are stored in images. This is a way to extract data about your image library for example. *(Added: 2012-12-18; Post date: 2013-12-16)*
+* [**R-ArchWiki** *[Arnaud Gaboury]*](https://wiki.archlinux.org/index.php/R#Renviron.r_file): R for Arch Linux users *(Added: 2014-04-14)*
