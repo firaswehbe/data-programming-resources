@@ -1,0 +1,6 @@
+# Analysis Methodologies
+
+## Machine Learning
+
+* [**Learning and Teaching Machine Learning: A Personal Journey** *[KDNuggets]*](http://www.kdnuggets.com/2014/04/learning-teaching-machine-learning-personal-journey.html) *(Added: 2014-04-15; Post date: 2014-04)*
+* [**OpenML: Open Machine Learning** *[GitHub.com/openml]*](https://github.com/openml/OpenML) *(Added: 2014-04-13)*

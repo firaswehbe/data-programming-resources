@@ -63,9 +63,6 @@ page**](http://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/
 
 * [**Upload your Code and Thesis to Figshare**](https://www.digital-science.com/blog/posts/upload-your-code-and-thesis-to-figshare)
 
-# Machine Learning Frameworks
-
-* [**OpenML: Open Machine Learning** *[GitHub.com/openml]*](https://github.com/openml/OpenML) *(Added: 2014-04-13)*
 
 # Articles about Open Source Software in Science
 
