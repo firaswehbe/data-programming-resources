@@ -66,6 +66,8 @@ page**](http://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/
 
 # Articles about Open Source Software in Science
 
+* Blog post: [**3 Simple Things GitHub can do for science**](http://juretriglav.si/3-simple-things-github-can-do-for-science/)
+
 * Blog post: [**How the Rise of the "R" Computer Language is Bringing Open Source to Science**](http://www.fastcolabs.com/3028381/how-the-rise-of-the-r-computer-language-is-bringing-open-source-to-science)
 
 * Joppa LN, McInerny G, Harper R, Salido L, Takeda K, O'Hara K, Gavaghan D,
