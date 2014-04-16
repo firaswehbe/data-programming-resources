@@ -12,3 +12,7 @@
 ## Text Analysis
 
 * [**Mastering Python Regular Expressions (Book)** *[PACKT Publishign]*](http://www.packtpub.com/mastering-python-regular-expressions/book) *(Added: 2014-04-14)*
+
+## Matplotlib and visualizations
+
+* Another new **matplotlib / D3js** interactive example: [**The old way** *[matplotlib.org]*](http://matplotlib.org/examples/shapes_and_collections/path_patch_demo.html)... [**The new way** *[mpld3@github]*](http://mpld3.github.io/examples/heart_path.html) *(Added: 2014-04-15)*
