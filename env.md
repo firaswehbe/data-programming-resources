@@ -1,6 +1,6 @@
 #$ENV
 
-VMs, Vim, Git, GitHub, Command Line, etc.
+VMs, Bash, Vim, Git, GitHub, Command Line, etc.
 
 ## Git and GitHub
 
