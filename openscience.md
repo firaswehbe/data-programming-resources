@@ -64,7 +64,11 @@ page**](http://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/
 * [**Upload your Code and Thesis to Figshare**](https://www.digital-science.com/blog/posts/upload-your-code-and-thesis-to-figshare)
 
 
-# Articles about Open Source Software in Science
+# Articles about Open Science
+
+* Philip Bourne: [**Some Early Thoughts**](http://www.slideshare.net/pebourne/sparc0314): internal NIH presentation to BISTI *(Talk date: 2014-04-01)*
+
+* Philip Bourne: [**Where is Open Going? SPARC Annual Meeting Keynote, Kansas City**](http://www.slideshare.net/pebourne/sparc0314) *(Talk date: 2014-03-01)*
 
 * Blog post: [**3 Simple Things GitHub can do for science**](http://juretriglav.si/3-simple-things-github-can-do-for-science/)
 
