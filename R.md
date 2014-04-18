@@ -15,6 +15,7 @@ Mostly Interested in R Tutorials for Advanced Users
 * [**Google+ thread on Text Mining resources in R**](https://plus.google.com/+SharonMachlis/posts/1Sg913cKCxS) *(Added: 2013-12-18)*
 
 ## Graphics and Vizualization
+* [**ShinyApp use case: scrape taxonomic names from a paper and plot on an interactive map** *[ropensci.shinyapps.io/taxmap]*](https://ropensci.shinyapps.io/taxmap/) *(Added: 2014-04-18)*
 * [**Edward Tufte Themes for ggplot2** *[github/@jrnold]*](https://github.com/jrnold/ggthemes) *(Added: 2014-04-18)*
 * [**Shapefile Selfies in ggplot2** *[TRinker's R Blog]*](http://trinkerrstuff.wordpress.com/2014/04/12/shape-file-selfies-in-ggplot2/) *(Added: 2014-04-13; Post date: 2014-04-12)*
 * [**Geocoding, R, and the Rolling Stones** *[Rolling Your Rs]*](http://rollingyours.wordpress.com/2013/03/20/geocoding-r-and-the-rolling-stones-part-1/) *(Added: 2014-04-13; Post date: 2013-03-20)*
