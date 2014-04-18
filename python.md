@@ -2,6 +2,9 @@
 
 ## Language
 
+* [**Over 2000 Python Videos** *[pyvideo.org]*](http://pyvideo.org/) *(Added: 2014-04-18)*
+* [**Key Differences Between Python 2 and 3** *[@rasbt/IPythonNotebook]*](http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/not_so_obvious_python_stuff.ipynb?create=1#python_differences) *(Added: 2014-04-18)*
+* [**Key Differences Between Python 2 and 3** *[@rasbt/IPythonNotebook]*](http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/not_so_obvious_python_stuff.ipynb?create=1#python_differences) *(Added: 2014-04-18)*
 * [**Intermediate Python Material as IPython Notebooks** *[holdenweb.blogspot.ca]*](http://holdenweb.blogspot.ca/2014/04/intermediate-python-open-source.html) *(Added: 2014-04-15; Post date: 2014-04-12)*
 * [**30 Python Language Features and Tricks You May Not Know About** *[Math u Code]*](http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html) *(Added: 2014-04-13)*
 
