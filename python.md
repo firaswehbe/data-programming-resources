@@ -2,6 +2,7 @@
 
 ## Language
 
+* [**IPython Notebook: A collection of not-so-obvious Python stuff you should know** *[@rasbt]*](http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/not_so_obvious_python_stuff.ipynb?create=1) *Added: 2014-04-18)*
 * [**Over 2000 Python Videos** *[pyvideo.org]*](http://pyvideo.org/) *(Added: 2014-04-18)*
 * [**Key Differences Between Python 2 and 3** *[@rasbt/IPythonNotebook]*](http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/not_so_obvious_python_stuff.ipynb?create=1#python_differences) *(Added: 2014-04-18)*
 * [**Key Differences Between Python 2 and 3** *[@rasbt/IPythonNotebook]*](http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/not_so_obvious_python_stuff.ipynb?create=1#python_differences) *(Added: 2014-04-18)*
