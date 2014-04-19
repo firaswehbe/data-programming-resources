@@ -9,6 +9,7 @@ Mostly Interested in R Tutorials for Advanced Users
 * [**Tutorial: Basic data processing with R** *[revolutionanalytics.com]*](http://blog.revolutionanalytics.com/2013/12/tutorial-basic-data-processing-with-r.html) *(Added: 2013-12-02)*
 
 ## Open Science and Reproducibility
+* [**Using Gitbook with R Markdown** *[jason.bryer.org]*](http://jason.bryer.org/posts/2014-04-18/Gitbook_with_R_Markdown.html) *(Added: 2014-04-19; Post date: 2014-04-18)*
 * [**Writing Papers Using Using R Markdown** *[Deciphering Life: One Bit at a Time]*](http://rmflight.github.io/posts/2012/10/papersinRmd.html) (via [*[R-Bloggers]*](www.r-bloggers.com/writing-papers-using-r-markdown/)) *(Added: 2013-12-19; Post date: 2013-12-09)*
 
 ## Text Mining
