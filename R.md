@@ -38,6 +38,7 @@ Mostly Interested in R Tutorials for Advanced Users
 * [**R and OOP - Defining New Classes** *[Milano R net]*](http://www.milanor.net/blog/?p=1234) *(Added: 2014-04-09; Post data: 2014-03-12)*
 
 ## Misc
+* [**Pushoverr: send notifications to your iOS and Android phone when analysis is done** *[briandconnelly@github]*](https://github.com/briandconnelly/pushoverr) *(Added: 2014-04-19)*
 * [**One Page R: A Survival Guide to Data Science with R** *togaware*](http://onepager.togaware.com/) *(Added: 2014-04-09)*
 * [**Secrets of Teaching R** *[Revolutionanalytics.com]*](http://blog.revolutionanalytics.com/2014/03/secrets-of-teaching-r.html) *(Added: 2014-04-09; Post date: 2014-03-18)*
 * [**Processing EXIF Data** *[exegetic.biz]*](http://www.exegetic.biz/blog/2013/12/processing-exif-data/): EXIF data are stored in images. This is a way to extract data about your image library for example. *(Added: 2012-12-18; Post date: 2013-12-16)*
