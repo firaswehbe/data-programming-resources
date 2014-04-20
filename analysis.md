@@ -7,5 +7,7 @@
 * [**OpenML: Open Machine Learning** *[GitHub.com/openml]*](https://github.com/openml/OpenML) *(Added: 2014-04-13)*
 
 ## "Data Science"
-
 * [**Free eBook on Big Data and Data Science** *[RevolutionAnalytics]*](http://blog.revolutionanalytics.com/2014/03/free-ebook-on-big-data-and-data-science.html) *(Added: 2014-04-15; Post date: 2014-03-24)*
+
+## "Analytics"
+* [**Free book chapter on Data Analytics in Healthcare by @williamhersh** *[informaticseducation.org]*](http://www.informaticseducation.org/Healthcare_Data_Analytics.pdf) *(Added: 2014-04-20)*
