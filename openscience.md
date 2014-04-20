@@ -59,6 +59,8 @@ page**](http://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/
 
 # Publishing Data
 
+* Book: [**Implementing Reproducible Research**](https://osf.io/s9tya/wiki/home/): +[Free chapter](https://osf.io/35s9d/) on open science and the role of publishers.
+
 * [**Mozilla + Figshare + GitHub**](http://thenextweb.com/dd/2014/03/17/mozilla-science-lab-github-figshare-team-fix-citation-code-academia/) Mozilla Science Lab, GitHub and Figshare team up to fix the citation of code in academia
 
 * [**Upload your Code and Thesis to Figshare**](https://www.digital-science.com/blog/posts/upload-your-code-and-thesis-to-figshare)
