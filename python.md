@@ -19,3 +19,6 @@
 ## Matplotlib and visualizations
 
 * Another new **matplotlib / D3js** interactive example: [**The old way** *[matplotlib.org]*](http://matplotlib.org/examples/shapes_and_collections/path_patch_demo.html)... [**The new way** *[mpld3@github]*](http://mpld3.github.io/examples/heart_path.html) *(Added: 2014-04-15)*
+
+## Python Web
+* [**Django Cheat Sheet** *[around-technology.blogspot.fr]*](http://around-technology.blogspot.fr/2014/04/django-cheat-sheet-15.html) *(Added: 2014-04-21; Post date: 2014-04-20)*
