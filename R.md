@@ -35,6 +35,7 @@ Mostly Interested in R Tutorials for Advanced Users
 * [**Problem of the day - You toss 100 coins, what's the probability that at least 60 are H?** *[math.stackexchange.com]*](http://math.stackexchange.com/questions/603709/probability-of-100-coin-tosses) *(Added: 2013-12-18; Post date: 2013-12-12)*
 
 ## R Language Constructs and OOP
+* [**Evaluating the Design of the R Language** *[cs.perdue.edu]*](http://r.cs.purdue.edu/pub/ecoop12.pdf) *(Added: 2014-04-22)*
 * [**Drawing Function Plots** *[inside-R.org]*](http://www.inside-r.org/r-doc/graphics/curve) *(Added: 2014-04-09)*
 * [**R and OOP - Defining New Classes** *[Milano R net]*](http://www.milanor.net/blog/?p=1234) *(Added: 2014-04-09; Post data: 2014-03-12)*
 
