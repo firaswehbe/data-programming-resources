@@ -42,6 +42,7 @@ Mostly Interested in R Tutorials for Advanced Users
 * [**R and OOP - Defining New Classes** *[Milano R net]*](http://www.milanor.net/blog/?p=1234) *(Added: 2014-04-09; Post data: 2014-03-12)*
 
 ## Misc
+* [**Writing an R Package from Scratch** *[HilaryParker.com]*](http://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/) *(Added: 2014-04-30; Post date: 2014-04-29)*
 * [**Play 2014 Using R!** *[Decisions and R]*](http://decisionsandr.blogspot.com/2014/04/play-2048-using-r.html) *(Added: 2014-04-20; Post date: 2014-04-19)*
 * [**Pushoverr: send notifications to your iOS and Android phone when analysis is done** *[briandconnelly@github]*](https://github.com/briandconnelly/pushoverr) *(Added: 2014-04-19)*
 * [**One Page R: A Survival Guide to Data Science with R** *togaware*](http://onepager.togaware.com/) *(Added: 2014-04-09)*
