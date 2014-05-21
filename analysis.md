@@ -7,6 +7,7 @@
 * [**OpenML: Open Machine Learning** *[GitHub.com/openml]*](https://github.com/openml/OpenML) *(Added: 2014-04-13)*
 
 ## "Data Science"
+* [**Guide to Data Science Cheat Sheets** *[kdnuggets]*](http://www.kdnuggets.com/2014/05/guide-to-data-science-cheat-sheets.html) *(Added: 2014-05-20)*
 * [**Redit discussion: Machine Learning v "Data Science"** *[reddit/r/MachineLearning]*](http://www.reddit.com/r/MachineLearning/comments/23eq2e/machine_learning_vs_data_science/) *(Added: 2014-04-21)*
 * [**Free eBook on Big Data and Data Science** *[RevolutionAnalytics]*](http://blog.revolutionanalytics.com/2014/03/free-ebook-on-big-data-and-data-science.html) *(Added: 2014-04-15; Post date: 2014-03-24)*
 
