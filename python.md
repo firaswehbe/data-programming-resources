@@ -10,6 +10,7 @@
 * [**30 Python Language Features and Tricks You May Not Know About** *[Math u Code]*](http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html) *(Added: 2014-04-13)*
 
 ## Data Analysis and Pandas
+* [**PyCap hits 1.0** *[sburns@github]*](http://pycap.readthedocs.org/en/latest/index.html) *(Added: 2014-05-21)*
 * [**Introduction to Pandas (11-part series in #Ipython notebooks)** *[hrojas@bitbucket]*](https://bitbucket.org/hrojas/learn-pandas) *(Added: 2014-05-02)*
 * [**Open Source Python Projects for Data Analysis** *[NumFOCUS.org]*](http://numfocus.org/projects.html) *(Added: 2014-04-13)*
 
@@ -25,3 +26,6 @@
 ## Python Web
 * [**Web2Py Cheat Sheet** *[dropbox]*](https://dl.dropboxusercontent.com/u/18065445/web2py/web2py_cheatsheet.pdf) *(Added: 2014-04-22)*
 * [**Django Cheat Sheet** *[around-technology.blogspot.fr]*](http://around-technology.blogspot.fr/2014/04/django-cheat-sheet-15.html) *(Added: 2014-04-21; Post date: 2014-04-20)*
+
+## IPython
+* [**Opening IPython notebooks in Google Drive** *[Google Plus]*](https://plus.google.com/app/basic/stream/z133vvygwpzxc3co404cchobnq3wzl25jik) *(Added: 2014-05-21; Post date: 2014-05-17)*
