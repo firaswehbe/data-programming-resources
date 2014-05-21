@@ -1,6 +1,7 @@
 # Analysis Methodologies
 
 ## Machine Learning
+* [**Lectures: Basics of Machine Learning** *[inf.ed.ac.uk]*](http://homepages.inf.ed.ac.uk/vlavrenk/iaml.html) *(Added: 2014-05-21)*
 * [**Machine Learning in 10 pictures** *[denizyuret.com]*](http://www.denizyuret.com/2014/02/machine-learning-in-5-pictures.html) *(Added: 2014-04-18; Post date: 2014-02-14)*
 * [**Machine Learning in Parallel with SVMs, GLMs, and Adaptive Boosting** *[datasciencecentral]*](http://www.datasciencecentral.com/profiles/blogs/machine-learning-in-parallel-with-support-vector-machines) *(Added: 2014-04-15; Post date: 2014-03-19)*
 * [**Learning and Teaching Machine Learning: A Personal Journey** *[KDNuggets]*](http://www.kdnuggets.com/2014/04/learning-teaching-machine-learning-personal-journey.html) *(Added: 2014-04-15; Post date: 2014-04)*
