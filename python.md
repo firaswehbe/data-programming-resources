@@ -14,6 +14,7 @@
 * [**Open Source Python Projects for Data Analysis** *[NumFOCUS.org]*](http://numfocus.org/projects.html) *(Added: 2014-04-13)*
 
 ## Text Analysis
+* [**Rosetta for medium text modeling/processing problems** *[columbia-applied-data-science@github]*](https://github.com/columbia-applied-data-science/rosetta) *(Added: 2014-05-20)*
 * [**PyMarkovTextGenerator: Generating random text with Markov Chains** *[FEE1DE4D@github]*](https://github.com/FEE1DE4D/PyMarkovTextGenerator) *(Added: 2014-05-09)*
 * [**Mastering Python Regular Expressions (Book)** *[PACKT Publishign]*](http://www.packtpub.com/mastering-python-regular-expressions/book) *(Added: 2014-04-14)*
 
