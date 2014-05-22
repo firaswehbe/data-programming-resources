@@ -2,6 +2,7 @@
 Mostly Interested in R Tutorials for Advanced Users
 
 ## Data Manipulation
+* [**Newer dplyr** *[statbandit]*](http://statbandit.wordpress.com/2014/05/21/newer-dplyr/) *(Added: 2014-05-21)* also see [here](http://blog.rstudio.org/2014/05/21/dplyr-0-2/)
 * [**RedcapR: R package for REDCap API** *[OuhscBbmc@GitHub]*](https://github.com/OuhscBbmc/REDCapR) *(Added: 2014-04-30)*
 * [**Dates and Times in R** *[stat.berkeley.edu]*](http://www.stat.berkeley.edu/classes/s133/dates.html) *(Added: 2014-04-18)*
 * [**Date Formatting in R** *[The R Trader]*](http://www.thertrader.com/2014/04/18/date-formating-in-r/) *(Added: 2014-04-18; Post date: 2014-04-18)*
