@@ -10,6 +10,7 @@
 * [**30 Python Language Features and Tricks You May Not Know About** *[Math u Code]*](http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html) *(Added: 2014-04-13)*
 
 ## Data Analysis and Pandas
+* [**DataPad.io launched** *[datpad.io]*](http://datapad.io/) *(Added: 2014-05-22)* Not just Python, but Wes McKinney is involved
 * [**PyCap hits 1.0** *[sburns@github]*](http://pycap.readthedocs.org/en/latest/index.html) *(Added: 2014-05-21)*
 * [**Introduction to Pandas (11-part series in #Ipython notebooks)** *[hrojas@bitbucket]*](https://bitbucket.org/hrojas/learn-pandas) *(Added: 2014-05-02)*
 * [**Open Source Python Projects for Data Analysis** *[NumFOCUS.org]*](http://numfocus.org/projects.html) *(Added: 2014-04-13)*
