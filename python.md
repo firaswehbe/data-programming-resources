@@ -1,6 +1,7 @@
 # Python
 
 ## Language
+* [**Everything you did not want to know about Unicode in Python 3** *[lucumr.pocoo.org]*](Everything you did not want to know about Unicode in Python 3) *(Added: 2014-05-23; Post date: 2014-05-12)*
 * [**The Hitchhiker's Guide to Python** *[python-guide.org]*](http://docs.python-guide.org/en/latest/) *(Added: 2014-05-22)*
 * [**Top 10 Mistakes that Python Programmers Make** *[toptal.com]*](http://www.toptal.com/python/top-10-mistakes-that-python-programmers-make) *(Added: 2014-05-09)*
 * [**Python Best Practice Patterns** *[stevenloria.com]*](http://stevenloria.com/python-best-practice-patterns-by-vladimir-keleshev-notes/) *(Added: 2014-04-20; Post date: 2013-05-09)*
