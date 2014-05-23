@@ -1,7 +1,7 @@
 # Python
 
 ## Language
-* [**Everything you did not want to know about Unicode in Python 3** *[lucumr.pocoo.org]*](Everything you did not want to know about Unicode in Python 3) *(Added: 2014-05-23; Post date: 2014-05-12)*
+* [**Everything you did not want to know about Unicode in Python 3** *[lucumr.pocoo.org]*](http://lucumr.pocoo.org/2014/5/12/everything-about-unicode/) *(Added: 2014-05-23; Post date: 2014-05-12)*
 * [**The Hitchhiker's Guide to Python** *[python-guide.org]*](http://docs.python-guide.org/en/latest/) *(Added: 2014-05-22)*
 * [**Top 10 Mistakes that Python Programmers Make** *[toptal.com]*](http://www.toptal.com/python/top-10-mistakes-that-python-programmers-make) *(Added: 2014-05-09)*
 * [**Python Best Practice Patterns** *[stevenloria.com]*](http://stevenloria.com/python-best-practice-patterns-by-vladimir-keleshev-notes/) *(Added: 2014-04-20; Post date: 2013-05-09)*
@@ -12,6 +12,7 @@
 * [**30 Python Language Features and Tricks You May Not Know About** *[Math u Code]*](http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html) *(Added: 2014-04-13)*
 
 ## Data Analysis and Pandas
+* [**100 numpy exercises** *[loria.fr]*](http://www.loria.fr/~rougier/teaching/numpy.100/index.html) *(Added: 2014-05-23)*
 * [**DataPad.io launched** *[datpad.io]*](http://datapad.io/) *(Added: 2014-05-22)* Not just Python, but Wes McKinney is involved
 * [**PyCap hits 1.0** *[sburns@github]*](http://pycap.readthedocs.org/en/latest/index.html) *(Added: 2014-05-21)*
 * [**Introduction to Pandas (11-part series in #Ipython notebooks)** *[hrojas@bitbucket]*](https://bitbucket.org/hrojas/learn-pandas) *(Added: 2014-05-02)*
