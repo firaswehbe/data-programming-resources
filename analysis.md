@@ -1,6 +1,7 @@
 # Analysis Methodologies
 
 ## Machine Learning
+* [**Machine Learning Classifier Comparison using Plotly in IPython NB** *[nbviewer.ipython/etpinard@github]*](http://nbviewer.ipython.org/github/etpinard/plotly-misc-nbs/blob/etienne/ml-classifier-comp/ml-classifier-comp.ipynb) *(Added: 2014-06-13)*
 * [**Lectures: Basics of Machine Learning** *[inf.ed.ac.uk]*](http://homepages.inf.ed.ac.uk/vlavrenk/iaml.html) *(Added: 2014-05-21)*
 * [**Machine Learning in 10 pictures** *[denizyuret.com]*](http://www.denizyuret.com/2014/02/machine-learning-in-5-pictures.html) *(Added: 2014-04-18; Post date: 2014-02-14)*
 * [**Machine Learning in Parallel with SVMs, GLMs, and Adaptive Boosting** *[datasciencecentral]*](http://www.datasciencecentral.com/profiles/blogs/machine-learning-in-parallel-with-support-vector-machines) *(Added: 2014-04-15; Post date: 2014-03-19)*
