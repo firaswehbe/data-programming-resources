@@ -11,3 +11,6 @@ VMs, Bash, Vim, Git, GitHub, Command Line, etc.
 * [**New Screen Release** *[gnu.org]*](https://savannah.gnu.org/forum/forum.php?forum_id=7961) *(Added: 2014-04-30)*
 * [**jrnl: command line tool for keeping journal** *[maebert@github]*](http://maebert.github.io/jrnl/index.html) *(Added: 2014-04-20)*
 * [**Better Bash Scripting in 15 Minutes** *[Robert Muth]*](http://robertmuth.blogspot.com/2012/08/better-bash-scripting-in-15-minutes.html) *(Added: 2014-04-16; Post date: 2012-08-03)*
+
+## AWK
+* [**An AWK Primer** *[WikiBooks.org]*](http://en.wikibooks.org/wiki/An_Awk_Primer) *(Added: 2014-06-16)*
