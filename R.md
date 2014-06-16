@@ -45,6 +45,7 @@ Mostly Interested in R Tutorials for Advanced Users
 * [**R and OOP - Defining New Classes** *[Milano R net]*](http://www.milanor.net/blog/?p=1234) *(Added: 2014-04-09; Post data: 2014-03-12)*
 
 ## Misc
+* [**Hadley Wickham's In Progress Book Site - Advanced R** *[adv-r.had.co.nz]*](http://adv-r.had.co.nz/) *(Added: 2014-06-16)*
 * [**roxygen2** *[rstudio blog]*](http://blog.rstudio.org/2014/05/19/roxygen2-4-0-1/) write documentation comments that are automatically converted to R's standard Rd format
 * [**Writing an R Package from Scratch** *[HilaryParker.com]*](http://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/) *(Added: 2014-04-30; Post date: 2014-04-29)*
 * [**Play 2014 Using R!** *[Decisions and R]*](http://decisionsandr.blogspot.com/2014/04/play-2048-using-r.html) *(Added: 2014-04-20; Post date: 2014-04-19)*
