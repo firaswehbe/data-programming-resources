@@ -12,6 +12,7 @@
 * [**30 Python Language Features and Tricks You May Not Know About** *[Math u Code]*](http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html) *(Added: 2014-04-13)*
 
 ## Data Analysis and Pandas
+* [**faker: Python package for generating fake data** *[faker@github]*](https://github.com/joke2k/faker) *(Added: 2014-06-24)*
 * [**100 numpy exercises** *[loria.fr]*](http://www.loria.fr/~rougier/teaching/numpy.100/index.html) *(Added: 2014-05-23)*
 * [**DataPad.io launched** *[datpad.io]*](http://datapad.io/) *(Added: 2014-05-22)* Not just Python, but Wes McKinney is involved
 * [**PyCap hits 1.0** *[sburns@github]*](http://pycap.readthedocs.org/en/latest/index.html) *(Added: 2014-05-21)*
