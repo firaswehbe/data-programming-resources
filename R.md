@@ -22,6 +22,7 @@ Mostly Interested in R Tutorials for Advanced Users
 * [**Google+ thread on Text Mining resources in R**](https://plus.google.com/+SharonMachlis/posts/1Sg913cKCxS) *(Added: 2013-12-18)*
 
 ## Graphics and Vizualization
+* [**Generating Colour Palettes** *[blenditbayes.blogspot.com]*](http://blenditbayes.blogspot.com/2014/05/towards-yet-another-r-colour-palette.html) *(Added: 2014-07-01; Post date: 2014-05-27)*
 * [**ShinyApp use case: scrape taxonomic names from a paper and plot on an interactive map** *[ropensci.shinyapps.io/taxmap]*](https://ropensci.shinyapps.io/taxmap/) *(Added: 2014-04-18)*
 * [**Edward Tufte Themes for ggplot2** *[github/@jrnold]*](https://github.com/jrnold/ggthemes) *(Added: 2014-04-18)*
 * [**Shapefile Selfies in ggplot2** *[TRinker's R Blog]*](http://trinkerrstuff.wordpress.com/2014/04/12/shape-file-selfies-in-ggplot2/) *(Added: 2014-04-13; Post date: 2014-04-12)*
