@@ -14,3 +14,6 @@ VMs, Bash, Vim, Git, GitHub, Command Line, etc.
 
 ## AWK
 * [**An AWK Primer** *[WikiBooks.org]*](http://en.wikibooks.org/wiki/An_Awk_Primer) *(Added: 2014-06-16)*
+
+## VIM
+* [**VimR - Refined Vim Experience for OS X** *[vimr.org]*](http://vimr.org/) *(Added: 2014-08-16)*
