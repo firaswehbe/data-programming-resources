@@ -1,6 +1,7 @@
 # Analysis Methodologies
 
 ## Machine Learning
+* [**Streamline your cross-validation and classification workflow - scikit-learn's Pipeline in action** *[rasbt@github]*](http://nbviewer.ipython.org/github/rasbt/pattern_classification/blob/master/machine_learning/scikit-learn/scikit-pipeline.ipynb): IPython NB *(Added: 2014-08-20)*
 * [**Machine Learning Classifier Comparison using Plotly in IPython NB** *[nbviewer.ipython/etpinard@github]*](http://nbviewer.ipython.org/github/etpinard/plotly-misc-nbs/blob/etienne/ml-classifier-comp/ml-classifier-comp.ipynb) *(Added: 2014-06-13)*
 * [**Lectures: Basics of Machine Learning** *[inf.ed.ac.uk]*](http://homepages.inf.ed.ac.uk/vlavrenk/iaml.html) *(Added: 2014-05-21)*
 * [**Machine Learning in 10 pictures** *[denizyuret.com]*](http://www.denizyuret.com/2014/02/machine-learning-in-5-pictures.html) *(Added: 2014-04-18; Post date: 2014-02-14)*
