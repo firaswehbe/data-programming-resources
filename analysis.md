@@ -1,6 +1,8 @@
 # Analysis Methodologies
 
 ## Machine Learning
+* [**Multiple "Deep Learning" Tutorials** *[e-learning-teleformacion.blogspot.com]*](e-learning-teleformacion.blogspot.com/2014/08/deep-learning-tutorials-deeplearnng-01.html) *(Added: 2014-08-20; Post-date: 2014-08-06)*
+* [**Video: Advanced Machine Learning with SciKit-Learn** *[PyCon 2013]*](https://www.youtube.com/watch?v=iFkRt3BCctg) *(Added: 2014-08-20; Post-date: 2013-03-24)*
 * [**Streamline your cross-validation and classification workflow - scikit-learn's Pipeline in action** *[rasbt@github]*](http://nbviewer.ipython.org/github/rasbt/pattern_classification/blob/master/machine_learning/scikit-learn/scikit-pipeline.ipynb): IPython NB *(Added: 2014-08-20)*
 * [**Machine Learning Classifier Comparison using Plotly in IPython NB** *[nbviewer.ipython/etpinard@github]*](http://nbviewer.ipython.org/github/etpinard/plotly-misc-nbs/blob/etienne/ml-classifier-comp/ml-classifier-comp.ipynb) *(Added: 2014-06-13)*
 * [**Lectures: Basics of Machine Learning** *[inf.ed.ac.uk]*](http://homepages.inf.ed.ac.uk/vlavrenk/iaml.html) *(Added: 2014-05-21)*
