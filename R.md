@@ -46,6 +46,7 @@ Mostly Interested in R Tutorials for Advanced Users
 * [**R and OOP - Defining New Classes** *[Milano R net]*](http://www.milanor.net/blog/?p=1234) *(Added: 2014-04-09; Post data: 2014-03-12)*
 
 ## Misc
+* [**How to tell lapply to ignore an error and process the next thing in the list** *[stackoverflow.com]*](stackoverflow.com/questions/2589275/r-how-to-tell-lapply-to-ignore-an-error-and-process-the-next-thing-in-the-list) *(Added: 2014-08-20; Post-date: 2010-04-07)*
 * [**Cheat Sheet for Shiny** *[shiny.rstudio.com]*](http://shiny.rstudio.com/articles/cheatsheet.html) *(Added: 2014-07-01; Post date: 2014-06-23)*
 * [**Hadley Wickham's In Progress Book Site - Advanced R** *[adv-r.had.co.nz]*](http://adv-r.had.co.nz/) *(Added: 2014-06-16)*
 * [**roxygen2** *[rstudio blog]*](http://blog.rstudio.org/2014/05/19/roxygen2-4-0-1/) write documentation comments that are automatically converted to R's standard Rd format
